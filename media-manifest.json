@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "file": "cover-landscape.png",
+      "bytes": 2472143,
+      "sha256": "65d54c7ad0b40e9f3a077ece09943f31436b83d9ceacae89e8aa8d12067ad68b"
+    },
+    {
+      "file": "cover-portrait.png",
+      "bytes": 1291398,
+      "sha256": "f1db53572ac5a601d64c2d55311327655f2bb61c3febf69e6d4bca55a261836a"
+    },
+    {
+      "file": "cover-square.png",
+      "bytes": 939711,
+      "sha256": "aff3a83acae8ef97387442df2299b783652b8f2055faf81e5c618d1109ae482e"
+    },
+    {
+      "file": "CREDITS.md",
+      "bytes": 996,
+      "sha256": "d953ebff44606c6404911e817778ed1c97ee005c8ddc8954b489c99771f3bbee"
+    },
+    {
+      "file": "preview-landscape.mp4",
+      "bytes": 4710091,
+      "sha256": "a1f2740ce5615c286e5242b95a1a5bc2d0b3f6db2f669948ea450cdd116c4d15"
+    },
+    {
+      "file": "preview-portrait.mp4",
+      "bytes": 4131521,
+      "sha256": "a265b2904fd0b7e53b1d3ca1bb759ae1624b2cbf6a28eb8ab369461cc9f1bf82"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1774,
+      "sha256": "bbffd7d04922d61193f842f779262a00278e1b12b3e89adbe838b86bc3beab6f"
+    },
+    {
+      "file": "the-flowies-icon.png",
+      "bytes": 392717,
+      "sha256": "5de4fbcefee0fa8022b504127d4357e57191746ca34be2cc8d35ac604f0ce1f9"
+    },
+    {
+      "file": "the-flowies-logo.png",
+      "bytes": 1287877,
+      "sha256": "f8afcaf091663055abe4cb26ac4a17331cb72483506292a8a5f490e3cb7b60fe"
+    }
+  ]
+}
